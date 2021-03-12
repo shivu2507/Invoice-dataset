@@ -1,0 +1,40 @@
+item {
+  name: "Seller details"
+  id: 1
+}
+item {
+  name: "Buyer details"
+  id: 2
+}
+item {
+  name: "Shipped details"
+  id: 3
+}
+item {
+  name: "Invoice number"
+  id: 4
+}
+item {
+  name: "Invoice date"
+  id: 5
+}
+item {
+  name: "Invoice table"
+  id: 6
+}
+item {
+  name: "Invoice column"
+  id: 7
+}
+item {
+  name: "Tax table"
+  id: 8
+}
+item {
+  name: "Tax column"
+  id: 9
+}
+item {
+  name: "Footer notes"
+  id: 10
+}
